@@ -5,7 +5,7 @@ Runs through wine on mac. `parrot` is aliased to `wine ~/Downloads/RGBPARROT.exe
 
 ## Installing
 
-Download the executable from [this repo](https://github.com/AmiyazGitHubLab/RGBParrot/blob/main/RGBParrot.exe). Only windows executable available rn because I cant figure out how to use the go compiler on linux.
+Download the executable from [this repo](https://github.com/AmiyazGitHubLab/RGBParrot/blob/main/RGBParrot.exe). Only windows executable available rn because I cant figure out how to use the GO compiler on linux.
   
 ### Quitting
 
