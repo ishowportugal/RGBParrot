@@ -1,10 +1,11 @@
 # :parrot: for your terminal
 
-![demo](http://dropit.velvetcache.org.s3.amazonaws.com/jmhobbs/NzczFOYq4g/termbox-parrot-color.gif)
+![demo](http://dropit.velvetcache.org.s3.amazonaws.com/jmhobbs/NzczFOYq4g/termbox-parrot-color.gif)  
+Runs through wine on mac. `parrot` is aliased to `wine ~/Downloads/RGBPARROT.exe 2> /dev/null`
 
 ## Installing
 
-Download the executable from [this repo](https://github.com/AmiyazGitHubLab/RGBParrot/blob/main/RGBParrot.exe)
+Download the executable from [this repo](https://github.com/AmiyazGitHubLab/RGBParrot/blob/main/RGBParrot.exe). Only windows executable available rn because I cant figure out how to use the go compiler on linux.
   
 ### Quitting
 
