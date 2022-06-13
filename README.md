@@ -1,4 +1,4 @@
-# :parrot: for your terminal
+# :parrot: for your terminal:
 
 ![demo](http://dropit.velvetcache.org.s3.amazonaws.com/jmhobbs/NzczFOYq4g/termbox-parrot-color.gif)
 
