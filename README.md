@@ -22,7 +22,7 @@ There is a tap for this as well, it's `AmiiHub/RGBParrot`
 
 The image is available on [docker hub](https://hub.docker.com/r/jmhobbs/terminal-parrot/)
 
-    docker pull jmhobbs/terminal-parrot
+    docker pull AmiiHub/terminal-parrot
     docker run -it --rm jmhobbs/terminal-parrot:latest
 
 You can also build a docker image locally and run it in a container with...
