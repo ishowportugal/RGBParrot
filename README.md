@@ -7,15 +7,15 @@
 Either grab a build on the [releases page](https://github.com/jmhobbs/terminal-parrot/releases) or clone and run...
 
 ```bash
-$ go get -u github.com/AmiyazGithubLab/RGBParrot
+$ go get -u github.com/AmiiHub/RGBParrot
 $ terminal-parrot
 ```
     
 ### Homebrew
 
-There is a tap for this as well, it's `AmiyazGithubLab/Parrot`
+There is a tap for this as well, it's `AmiiHub/RGBParrot`
 
-    brew tap AmiyazGithubLab/Parrot
+    brew tap AmiiHub/RGBParrot
     brew install RGBParrot
 
 ### Docker
