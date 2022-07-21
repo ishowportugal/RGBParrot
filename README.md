@@ -4,7 +4,7 @@
 
 ## Installing
 
-Either grab a build on the [releases page](https://github.com/jmhobbs/terminal-parrot/releases) or clone and run...
+Install the RGBParrot.exe or do it from Bash:
 
 ```bash
 $ go get -u github.com/AmiiHub/RGBParrot
