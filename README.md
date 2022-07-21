@@ -1,4 +1,4 @@
-# :parrot: for your terminal:
+# :parrot: RGBParrot(How to install it):
 
 ![demo](http://dropit.velvetcache.org.s3.amazonaws.com/jmhobbs/NzczFOYq4g/termbox-parrot-color.gif)
 
@@ -45,15 +45,3 @@ Set the frame delay with the `-delay` flag (defaults to 75, use 25 for :fastparr
 ### :aussieparrot:
 
 Use `-orientation aussie` for our friends down under.
-
-## Thanks
-
-Idea from seeing [this tweet from @rachsmithtweets](https://twitter.com/rachsmithtweets/status/742785722290212868)
-
-Thanks to [termbox-go](https://github.com/nsf/termbox-go) for making it easy.
-
-Thanks to [jp2a](https://csl.name/jp2a/) for nice ASCII art conversion.
-
-Thanks to [erinking](https://github.com/erinking) for [fixing colors and animation frames](https://github.com/jmhobbs/terminal-parrot/pull/15)
-
-Thanks to [pdevine](https://github.com/pdevine) for the [Dockerfile](https://github.com/jmhobbs/terminal-parrot/pull/12) (and [robbyoconnor](https://github.com/robbyoconnor) for reviving the PR I let go stale)
